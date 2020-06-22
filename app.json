@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/afdulfauzan/python-aria-mirror-bot",
-    "website": "https://afdulfauzan.tech",
-    "success_url": "https://t.me/afdlfz_mirror_bot",
+    "repository": "https://github.com/SerMax20/pythonmirrorbot/t",
+    "website": "https://t.me/",
+    "success_url": "https://t.me/",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
